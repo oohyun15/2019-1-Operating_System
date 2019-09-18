@@ -1,0 +1,27 @@
+Hello world!
+make[1]: 디렉터리 '/home/kim/workspace/PA0' 들어감
+gcc -std=c99 -o course_sched course_sched.c
+make[1]: 디렉터리 '/home/kim/workspace/PA0' 나감
+make[1]: 디렉터리 '/home/kim/workspace/PA0' 들어감
+./course_sched ./in/everytime0.csv
+Computer Programming
+Digital Systems
+Discrete Mathematics
+Data Structures
+Computer Architecture
+Operating Systems
+./course_sched ./in/everytime1.csv
+Digital Systems
+Discrete Mathematics
+Computer Programming
+Data Structures
+Computer Architecture
+Operating Systems
+./course_sched ./in/everytime2.csv
+Digital Systems
+Computer Programming
+Discrete Mathematics
+Data Structures
+Computer Architecture
+Operating Systems
+make[1]: 디렉터리 '/home/kim/workspace/PA0' 나감
